@@ -1,9 +1,9 @@
-# GAMER QUIZ
- Quiz for Gamers
-Daniel Amadril JavaScript API Project
+# Schedule Timer (Challenge 5)
+ Moment JS Schedule Planner
+Daniel Amadril Project
 
-## API QUIZ
-Creating a quiz with multiple choice questions, a timer and much more.
+##  Schedule Planner
+Creating a planner connected to momentjs in realtime. Allows the user to save plans to local storage.
 
 ## Description
 This project is simply for acedemic purposes. Creating a shcedule planner for for the average 9am-5pm time frame. I implemented moment.js to connect real time to my blocks of code Understanding what bootstrap and Jquery can acomplish was really my goal. I spent a lot of time trying to confiugure local Storage, momentJS functions and etc! 
